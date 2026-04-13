@@ -6,4 +6,4 @@ IGPU	Intel UHD 620
 SSD	Western Digital NVMe 256GB
 ETH	Intel I217-LM
 WI-FI - INTEL 
-For Downloads & INFO 👉👉👉 https://www.ujmix.com/dell-latitude-5400-hackintosh-dell-5400-efi/
+For Downloads & INFO > https://www.ujmix.com/dell-latitude-5400-hackintosh-dell-5400-efi/
